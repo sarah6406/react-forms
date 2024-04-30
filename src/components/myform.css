@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  max-width: 20rem;
+}
